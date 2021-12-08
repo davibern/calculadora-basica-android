@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Calculadora Básica Android</string>
+    <string name="title">Calculadora Básica Android</string>
+    <string name="field_one">Ingresa un número</string>
+    <string name="field_two">Ingresa un número</string>
+    <string name="sum">+</string>
+    <string name="subtract">-</string>
+    <string name="plus">*</string>
+    <string name="divide">/</string>
+    <string name="Result">Resultado:</string>
 </resources>

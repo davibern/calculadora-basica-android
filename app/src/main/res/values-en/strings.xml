@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Android Basic Calculator</string>
+    <string name="title">Android Basic Calculator</string>
+    <string name="field_one">Input a number</string>
+    <string name="field_two">Input a number</string>
+    <string name="sum">+</string>
+    <string name="subtract">-</string>
+    <string name="plus">*</string>
+    <string name="divide">/</string>
+    <string name="Result">Result:</string>
 </resources>
